@@ -5,11 +5,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge&logo=gui&logoColor=white)
-![Logic](https://img.shields.io/badge/Algorithm-Triple%20Filtering-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Final_Project-success?style=for-the-badge)
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Preview+Dashboard+MoodMeal" alt="MoodMeal Dashboard" width="600">
+
   <br>
   <i>(Aplikasi MoodMeal: Solusi Makan Sehat, Hemat, dan Sesuai Perasaan)</i>
 </p>
